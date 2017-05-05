@@ -1,5 +1,7 @@
 <?php
 
-echo "hello world";
+$planet = "earth";
+
+echo "hello " . $planet;
 
 ?>
