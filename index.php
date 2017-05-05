@@ -1,6 +1,6 @@
 <?php
 
-$planet = "earth";
+$planet = "mars";
 
 echo "hello " . $planet;
 
